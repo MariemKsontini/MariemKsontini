@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 **Hi, I'm Mariem Ksontini, a 3rd-year Software Engineering student.**<br><br>
+👋 **Hi, I'm Mariem Ksontini, a 4rd-year Software Engineering student.**<br><br>
 🌱 Quick Facts:<br><br>🎓 Studying at INSAT.<br>🚀 Passionate about coding and eager to learn new technologies.<br>🌏 I'm particularly interested in web development, machine learning and competitive programming.<br>🤝 Open to collaborations and internships.<br>
 
  # 💻 Tech Stack:
